@@ -3,7 +3,7 @@
 Original Post
 https://forum.cfx.re/t/esx-fleeca-bank-heists/1352598
 
-Previvew:
+Preview:
 https://streamable.com/nuquba
 
 Make sure to start taskbar - OR ELSE WONT WORK
