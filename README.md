@@ -3,6 +3,9 @@
 Original Post
 https://forum.cfx.re/t/esx-fleeca-bank-heists/1352598
 
+My Discord:
+https://discord.gg/wQBuB3U5Ym
+
 Preview:
 https://streamable.com/nuquba
 
