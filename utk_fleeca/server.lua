@@ -1,6 +1,4 @@
-QBCore = nil
-TriggerEvent('QBCore:GetObject', function(obj) QBCore = obj end)
-
+local QBCore = exports['qb-core']:GetCoreObject()
 
 --https://discord.gg/wQBuB3U5Ym - Dox Shop
 --https://discord.gg/wQBuB3U5Ym - Dox Shop
